@@ -1,0 +1,13 @@
+body{
+    background-image: url(multimedia/dead-by-daylight-x-saw-crossover-revealed_nbxb.1280.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fondo{
+    background-color: rgb(15, 15, 53);
+}
+.contenedor{
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
